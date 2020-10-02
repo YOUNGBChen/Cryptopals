@@ -1,5 +1,4 @@
 ### Cryptopals
-密码学编程联系，从易到难
 #### Challenge Set 1
 - 将十六进制转换为base64
 - 固定异或
